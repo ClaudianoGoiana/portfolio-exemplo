@@ -212,7 +212,7 @@ a {
   margin-bottom: -70px;
 }
 
-.orange-circle {
+/*.orange-circle {
   position: absolute;
   bottom: -370px;
   left: 55%;
@@ -222,7 +222,7 @@ a {
   background-color: var(--accent);
   border-radius: 50%;
   z-index: 1;
-}
+} */
 
 .hero-img {
   width: auto;
