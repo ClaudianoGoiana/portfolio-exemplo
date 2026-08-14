@@ -1,2 +1,1 @@
 # portfolio-exemplo
-Manga larga
